@@ -14,4 +14,5 @@ The goal is to extend the application features.
 
 - hints
 
-
+# Goal
+Use the client (something i write, or i write a skeleton for) to log in with you AUth0 profile. Client will receive: your e-mail address and name.
