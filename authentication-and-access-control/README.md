@@ -6,6 +6,10 @@ The goal is to extend the application features.
 - what it does now / how it is setup.
 
 - how to run it
+```
+npm install
+npm start
+```
 
 # Part 1
 
