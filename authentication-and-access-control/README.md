@@ -7,8 +7,9 @@ The goal is to extend the application features.
 
 - how to run it
 
-
 # Part 1
+
+- Create a personal account on Auth0
 
 - what we want it to do
 
